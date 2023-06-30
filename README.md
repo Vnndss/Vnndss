@@ -11,8 +11,8 @@
 
  <div>
   <a href="https://github.com/Vndss">
-  <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vndss&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" style="color=#ffff"/>
-  <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vndss&layout=compact&langs_count=8&theme=gotham"/>
+  <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mquefi&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" style="color=#ffff"/>
+  <img height="130em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mquefi&layout=compact&langs_count=8&theme=gotham"/>
  </div>
 
 
@@ -28,7 +28,7 @@
 
   
   ##
-  <!
+  
 <div>
   <a href = "mailto: andersonfelipemendes@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anderson-morais-b53411195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
